@@ -3,21 +3,21 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: Tai Tran Viet                      # name
+  title: Student           # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  location: Ha Noi, Viet Nam  # location, text or markdown link syntax
+  email: iam@kaiz.vn     # email address
+  phone: +84 362 94 6262  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: kaiz.vn      # site link without schema, like example.com, will automatically prepend "https://"
 
-  gender:                   # gender or pronoun
-  birthday:                 # birthday
-  nationality:              # nationality
+  gender: Male                   # gender or pronoun
+  birthday: 28-01-2004                # birthday
+  nationality: Viet Nam             # nationality
   visa:                     # passport visa
   drivinglicense:           # driving licence
 
@@ -25,35 +25,35 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
-  gitlab:                   # https://gitlab.com/<username>
-  bitbucket:                # https://bitbucket.com/<username>
+  github:                   # https://github.com/tentoilatai
+  gitlab:                   # https://gitlab.com/tentoilatai
+  bitbucket:                # https://bitbucket.com/tentoilatai
   git:                      # selfhost git site link without schema "https://"
-  leetcode:                 # https://leetcode.com/<username>
-  codeforces:               # https://codeforces.com/profile/<username>
-  codewars:                 # https://www.codewars.com/users/<username>
-  topcoder:                 # https://profiles.topcoder.com/<username>
-  huggingface:              # https://huggingface.co/<username>
-  codepen:                  # https://codepen.io/<username>
-  tryhackme:                # https://tryhackme.com/p/<username>
+  leetcode:                 # https://leetcode.com/tentoilatai
+  codeforces:               # https://codeforces.com/profile/tentoilatai
+  codewars:                 # https://www.codewars.com/users/tentoilatai
+  topcoder:                 # https://profiles.topcoder.com/tentoilatai
+  huggingface:              # https://huggingface.co/tentoilatai
+  codepen:                  # https://codepen.io/tentoilatai
+  tryhackme:                # https://tryhackme.com/p/tentoilatai
 
   # research
-  googlescholar:            # https://scholar.google.com/citations?user=<username>
-  researchgate:             # https://www.researchgate.net/profile/<username>
-  orcid:                    # https://orcid.org/<id>
-  figshare:                 # https://figshare.com/authors/<name/id>
-  kaggle:                   # https://www.kaggle.com/<username>
+  googlescholar:            # https://scholar.google.com/citations?user=tentoilatai
+  researchgate:             # https://www.researchgate.net/profile/tentoilatai
+  orcid:                    # https://orcid.org/tentoilatai
+  figshare:                 # https://figshare.com/authors/tentoilatai
+  kaggle:                   # https://www.kaggle.com/tentoilatai
 
   # writing
-  medium:                   # https://medium.com/@<username>
-  wordpress:                # https://<username>.wordpress.com
-  blogger:                  # https://<username>.blogspot.com
-  devto:                    # https://dev.to/<username>
+  medium:                   # https://medium.com/@tentoilatai
+  wordpress:                # https://tentoilatai.wordpress.com
+  blogger:                  # https://tentoiltai.blogspot.com
+  devto:                    # https://dev.to/tentoilatai
 
   # creativity
-  figma:                    # https://www.figma.com/@<username>
-  behance:                  # https://www.behance.net/<username>
-  dribbble:                 # https://dribbble.com/<username>
+  figma:                    # https://www.figma.com/@tentoilatai
+  behance:                  # https://www.behance.net/tentoilatai
+  dribbble:                 # https://dribbble.com/tentoilatai
   artstation:               # https://www.artstation.com/<username>
   pixiv:                    # https://www.pixiv.net/users/<id>
   pinterest:                # https://www.pinterest.com/<username>
