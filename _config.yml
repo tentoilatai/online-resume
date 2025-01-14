@@ -15,7 +15,7 @@ open_graph:
   image: /assets/images/profile.png   # path or link to the open graph image
 
 # Style
-date_format: "%dd-%mm-%YYYY"     # date format
+date_format: "%d-%m-%Y"     # date format
 theme_color: "#1DA1F2"           # your favorite theme color
 contact_delimiter: "·"           # contact delimiter, '·', '/' or '|'
 section_icon: true               # section title icon, true or false
